@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #e6739f;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #e6739f;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:  #c56183;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f7dad9;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+a{
+  color: #c56183;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.programming-img{
+  width: 25%;
+  float: left;
+  margin: auto 50px auto auto;
+}
+
+.gif-img{
+  width: 25%;
+  float: right;
+  margin: auto auto auto 50px;
+}
+
+.top-section {
+  background-color: #f7dad9;
+  margin-top: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile-animated-image{
+  height: 200px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-section{
+  background-color: #f7dad9;
+  margin-bottom: 0;
+  position: relative;
+  padding-bottom: 25px;
+  padding-top: 50px
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 8px;
+   height: 35px;
+   line-height: 21px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   width: 170px;
+   font-size: 20px;
+   font-weight: 100;
+   background-color: #C56183;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 40px;
+   padding-top: 15px;
+
+}
+
+.btn:hover {
+   background: #0A0A0B;
+   border: solid #000000 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.footer-link{
+   margin: 5px;
+   padding: 10px;
+   line-height: 3;
+}
+
+.middle-section{
+  margin: 100px 0;
+}
+
+.credit{
+  color: white;
+  font-size: 0.75rem;
+}
